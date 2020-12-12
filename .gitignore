@@ -5,8 +5,8 @@ myvenv
 db.sqlite3
 /static
 .DS_Store
-#=> VSCode
-.vscode/*
+
+.vscode
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
