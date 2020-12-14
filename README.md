@@ -1,5 +1,3 @@
-# django-simple-blog
-
 <h1 align="center">django-simple-blog</h1>
 
 <p align="center">
